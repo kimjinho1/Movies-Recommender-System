@@ -10,5 +10,5 @@
 <img src="https://user-images.githubusercontent.com/29765855/84464541-bee2a480-acaf-11ea-9449-215edbe2bc4e.PNG" width="50%">
 
 ## Hybrid Recommender  
-<img src="https://user-images.githubusercontent.com/29765855/84464667-1b45c400-acb0-11ea-838a-757b7e3add7c.PNG" width="70%">
+<img src="https://user-images.githubusercontent.com/29765855/84464667-1b45c400-acb0-11ea-838a-757b7e3add7c.PNG" width="100%">
 
