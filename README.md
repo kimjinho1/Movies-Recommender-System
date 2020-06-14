@@ -4,7 +4,9 @@
 
 ## Metadata Based Recommender  
 ### 다크 나이트 (The Dark Knight)  
-![다크나이트](https://user-images.githubusercontent.com/29765855/84464479-9195f680-acaf-11ea-88ab-cb5cd6b47884.PNG){: width="100" height="100"}
+<img src="https://user-images.githubusercontent.com/29765855/84464479-9195f680-acaf-11ea-88ab-cb5cd6b47884.PNG" width="40%">
+
+#![다크나이트](https://user-images.githubusercontent.com/29765855/84464479-9195f680-acaf-11ea-88ab-cb5cd6b47884.PNG)
   
 
 ### 아바타 (Avatar)  
